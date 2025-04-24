@@ -19,4 +19,9 @@ Try the pervious command again
 Install `Jupyter` with the command `pip install jupyter`.
 
 ### Step 5
-Run `jupyter lab`
+Run `jupyter-lab`
+
+
+## Second session
+
+**Just activate the virtual env (step 2)**
