@@ -25,3 +25,8 @@ Run `jupyter-lab`
 ## Second session
 
 **Just activate the virtual env (step 2)**
+
+### recorded video
+
+[Link](https://drive.google.com/file/d/1bzr4-QFH2HcGh5O6GKpku5LyRFEFEZf7/view?usp=sharing)
+
